@@ -13,14 +13,23 @@
   (C).
 
   - The layout will be a standard calculator layout:
+
   +-----------+
+  
   | Display   |
+
   +-----------+
+  
   | C  del  |
+  
   | 7 8 9 / |
+  
   | 4 5 6 * |
+  
   | 1 2 3 - |
+  
   | 0 . = + |
+  
   +-----------+
 
   __2. Core Functionality:__
