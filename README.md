@@ -1,10 +1,10 @@
 # __Phase 1: Constitution__
--   __Principle 1: Simplicity. The calculator should be intuitive and easy to use for everyday arithmetic. The user interface will be clean and uncluttered.
-  - __Principle 2: Accuracy. All calculations must be accurate for standard integer and floating-point arithmetic.
-  - __Principle 3: Responsiveness. The calculator should provide immediate feedback. Keystrokes and calculations should feel instantaneous.
-  - __Principle 4: Standard Technologies. The project will be built using plain HTML, CSS, and JavaScript, without any external frameworks, to ensure it is
+-   _Principle 1:_ Simplicity. The calculator should be intuitive and easy to use for everyday arithmetic. The user interface will be clean and uncluttered.
+  - _Principle 2:_ Accuracy. All calculations must be accurate for standard integer and floating-point arithmetic.
+  - _Principle 3:_ Responsiveness. The calculator should provide immediate feedback. Keystrokes and calculations should feel instantaneous.
+  - _Principle 4:_ Standard Technologies. The project will be built using plain HTML, CSS, and JavaScript, without any external frameworks, to ensure it is
   lightweight and easy to understand.
-  - __Principle 5: Maintainability. The code will be well-structured, commented, and organized into separate files for HTML, CSS, and JavaScript to make it easy to maintain and extend.
+  - _Principle 5:_ Maintainability. The code will be well-structured, commented, and organized into separate files for HTML, CSS, and JavaScript to make it easy to maintain and extend.
 
 # __Phase 2: Specification__
   __1. User Interface:__
