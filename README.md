@@ -54,16 +54,27 @@
 
   __4. _script.js_ (The Logic):__
     - Initialization: When the script loads, get references to the display element and all the button elements from the HTML.
+    
     - State Management: Create variables to keep track of the calculator's state:
-        - currentOperand: The number currently being entered.
+    
+      - currentOperand: The number currently being entered.
+        
       - previousOperand: The first number in a calculation.
+      
       - operator: The selected operation (+, -, etc.).
+      
     - Event Handling: Add a single event listener to the container holding all the buttons to efficiently capture clicks.
+    
     - Core Functions:
-        - appendNumber(number): Appends a digit to the currentOperand.
+    
+      - appendNumber(number): Appends a digit to the currentOperand.
+        
       - chooseOperator(op): Sets the operator and moves the currentOperand to previousOperand.
+      
       - calculate(): Performs the calculation based on the previousOperand, currentOperand, and operator.
+      
       - clear(): Resets all state variables to their initial values.
+      
       - updateDisplay(): Updates the HTML display with the current value.
 
 
@@ -95,12 +106,8 @@
 
 # __Phase 5: Implementation__
 
-    - Define the Constitution for the calculator project (completed)
-    - Create the Specification for the calculator (completed)
-    - Develop the Plan for implementation (completed)
-    - Break down the Plan into Tasks (completed)
-    - Implement the calculator (in progress)
-
-
-@Afaq Ahmed CCR start Mai API is not set hi aiygi jab Kay API key saat Hoti Hai ap CCR code karkay cluade start kardein .API key is not set ko ignore kareiy ap.
-
+    - Define the Constitution for the calculator project 
+    - Create the Specification for the calculator 
+    - Develop the Plan for implementation
+    - Break down the Plan into Tasks 
+    - Implement the calculator 
